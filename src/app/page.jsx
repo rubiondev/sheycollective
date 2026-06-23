@@ -8,10 +8,10 @@ import { ArrowDown, ArrowUpRight, Volume2, VolumeX } from "lucide-react";
 
 // --- Data ---
 const collections = [
-  { id: 1, title: "", category: "Vailed Vitality", year: "2025", src: "/images/outfit1.jpg" },
-  { id: 2, title: "", category: "Vailed Vitality", year: "2025", src: "/images/outfit2.jpg" },
+  { id: 1, title: "", category: "Vailed Vitality", year: "2025", src: "/images/C2-1.jpg" },
+  { id: 2, title: "", category: "Vailed Vitality", year: "2025", src: "/images/C2-2.jpg" },
   { id: 3, title: "", category: "Vailed Vitality", year: "2024", src: "/images/outfit3.jpg" },
-  { id: 4, title: "", category: "Vailed Vitality", year: "2024", src: "/images/outfit4.jpg" },
+  { id: 4, title: "", category: "Vailed Vitality", year: "2024", src: "/images/outfit1.jpg" },
 ];
 
 export default function Home() {
